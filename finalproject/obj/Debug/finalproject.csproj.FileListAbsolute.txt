@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\user\source\repos\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\user\source\repos\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\user\source\repos\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\user\source\repos\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\user\source\repos\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\Waheed\Desktop\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\Waheed\Desktop\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\Waheed\Desktop\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\Waheed\Desktop\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+C:\Users\Waheed\Desktop\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\Waheed\Desktop\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\Waheed\Desktop\finalproject\finalproject\obj\Debug\finalproject.pdb
